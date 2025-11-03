@@ -23,8 +23,6 @@ It was created to demonstrate data cleaning, data modeling, and interactive visu
 
 ---
 
-## 💾 **Repository Structure**
-
 ---
 
 ## 🎯 **Dashboard Features**
@@ -72,5 +70,12 @@ Average Order Value = DIVIDE([Total Sales], [Total Quantity])
 Orders Count = COUNTROWS('Sales')
 Sales LY = CALCULATE([Total Sales], SAMEPERIODLASTYEAR('Sales'[Sale_Date]))
 
-Dashboard Preview
-salesdata.PNG
+ashboard preview
+
+(![Sales Dashboard](https://github.com/sanjanagawh9443/PowerBI-Sales-Dashboard-Superstore/blob/main/Sales%20Overview%20Dashboard.png)
+
+---
+
+## 👩‍💻 **Contributor**
+
+**Sanjana Gawhande**
