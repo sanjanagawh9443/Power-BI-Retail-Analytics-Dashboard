@@ -21,15 +21,6 @@ It was created to demonstrate data cleaning, data modeling, and interactive visu
 - **sales:** transactional data including quantity sold, sales amount, date, and region  
 
 ---
-
-## 💾 **Repository Structure**
-📦 Power-BI-Retail-Analytics-Dashboard
-┣ 📄 README.md → Project documentation
-┣ 📄 salesdata.pbix → Power BI project file
-┣ 📄 salesdata.PNG → Dashboard image preview
-┣ 📄 sample_data_all_quoted-checkpoint.sql → SQL dataset file
-
-
 ---
 
 ## 🎯 **Dashboard Features**
