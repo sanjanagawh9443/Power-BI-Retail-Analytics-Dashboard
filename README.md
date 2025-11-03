@@ -77,13 +77,15 @@ Orders Count = COUNTROWS('Sales')
 Sales LY = CALCULATE([Total Sales], SAMEPERIODLASTYEAR('Sales'[Sale_Date]))
 
 
-🖼️ Dashboard Preview
-https://github.com/sanjanagawh9443/Power-BI-Retail-Analytics-Dashboard/blob/main/salesdata.PNG
+## 🖼️ **Dashboard Preview**
 
+(![Retail Dashboard](https://github.com/sanjanagawh9443/Power-BI-Retail-Analytics-Dashboard/blob/main/salesdata.PNG)
 
-👩‍💻 Contributor
-Sanjana Gawhande
+---
 
+## 👩‍💻 **Contributor**
+
+**Sanjana Gawhande**
 
 
 
